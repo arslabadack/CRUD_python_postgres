@@ -1,0 +1,1 @@
+ALTER TABLE todo ALTER COLUMN id set default nextval('todo_seq');
